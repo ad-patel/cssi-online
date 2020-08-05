@@ -36,7 +36,7 @@ function setup() {
   logoHeight = 150;
   // We only want to load the logo once.
   dvdImage = loadImage(
-    "https://cdn.glitch.com/cac1122d-de8c-4087-86f0-262d9c687700%2Fthumbnails%2Fdvd.jpeg?1594143991742"
+    "dvd.jpeg"
   ); //todo: get the image URL from the assets
 }
 
